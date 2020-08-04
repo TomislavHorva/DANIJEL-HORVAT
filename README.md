@@ -1,2 +1,2 @@
-# DANIJEL-HORVAT
+# Party_Bot
 PartyBot
